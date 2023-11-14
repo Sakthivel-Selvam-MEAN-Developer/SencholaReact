@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <>
             <footer>
-                <div className="container-fluid pt-2 pb-2 ps-5 pe-5 d-flex justify-content-between align-items-center">
+                <div className="container-fluid pt-2 pb-2 ps-5 pe-5 d-flex flex-column justify-content-between align-items-center">
                     <div className="footer-logo">
                         <h4>MCU</h4>
                     </div>
